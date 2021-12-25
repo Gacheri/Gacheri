@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi 👋
 
-<!--
-**Gacheri/Gacheri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I am Brenda Gaceri .
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on my professional portfolio.
+- 🌱 I’m currently learning how to code without researching other careers.
+- 👯 I’m looking to collaborate on open-source projects.
+- 🤔 I’m looking for help with procrastination.
+- 💬 Ask me about User experience design and develoment.
+- 📫 How to reach me: michenibrenda81@gmail.com
+- 😄 Pronouns: She || Her.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Gacheri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gacheri&hide=issues,contribs&count_private=true&theme=tokyonight&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+
