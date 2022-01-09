@@ -1,6 +1,6 @@
 ### Hi 👋
 
-#### I am Brenda Gaceri .
+#### I am Brenda Gaceri and am a frontend developer.
 
 - 🔭 I’m currently working on my professional portfolio.
 - 🌱 I’m currently learning how to code without researching other careers.
